@@ -1,0 +1,31 @@
+PODS:
+  - AFoundation (0.1.3)
+  - AUIKit (1.0.0)
+
+DEPENDENCIES:
+  - AFoundation (from `https://github.com/ihormyroniuk/AFoundation`, commit `3dcfafbdb7c9ba1bc95ea5d33184fb3d0838051b`)
+  - AUIKit (from `https://github.com/ihormyroniuk/AUIKit`, commit `8d86107474ef16ee366c017ebe573c9938a1bd32`)
+
+EXTERNAL SOURCES:
+  AFoundation:
+    :commit: 3dcfafbdb7c9ba1bc95ea5d33184fb3d0838051b
+    :git: https://github.com/ihormyroniuk/AFoundation
+  AUIKit:
+    :commit: 8d86107474ef16ee366c017ebe573c9938a1bd32
+    :git: https://github.com/ihormyroniuk/AUIKit
+
+CHECKOUT OPTIONS:
+  AFoundation:
+    :commit: 3dcfafbdb7c9ba1bc95ea5d33184fb3d0838051b
+    :git: https://github.com/ihormyroniuk/AFoundation
+  AUIKit:
+    :commit: 8d86107474ef16ee366c017ebe573c9938a1bd32
+    :git: https://github.com/ihormyroniuk/AUIKit
+
+SPEC CHECKSUMS:
+  AFoundation: b395b4e2cb156715b6a4c55182c801bef1a5e810
+  AUIKit: 1f146cf9d07e7241c2318521cfea313467732d34
+
+PODFILE CHECKSUM: a30622770a78a148056e120b4425f991c3fd06b7
+
+COCOAPODS: 1.9.1

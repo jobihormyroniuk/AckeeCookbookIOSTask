@@ -1,0 +1,19 @@
+/* 
+  AddRecipeScreenStrings.strings
+  AckeeCookbookIOSTask
+
+  Created by Ihor Myroniuk on 3/31/20.
+  Copyright © 2020 Ihor Myroniuk. All rights reserved.
+*/
+
+"title" = "Add Recipe";
+"add" = "Add";
+"back" = "Back";
+"recipeName" = "Name";
+"recipeInfo" = "Info";
+"recipeIngredients" = "Ingredients";
+"ingredient" = "Ingredient";
+"recideAddIngredient" = "Add";
+"recideDescription" = "Description";
+"recideDuration" = "Duration";
+"durationInMinutes" = "%@ min.";

@@ -1,0 +1,19 @@
+/* 
+  UpdateRecipeScreenStrings.strings
+  AckeeCookbookIOSTask
+
+  Created by Ihor Myroniuk on 28.05.2020.
+  Copyright © 2020 Ihor Myroniuk. All rights reserved.
+*/
+
+"title" = "Update Recipe";
+"update" = "Update";
+"back" = "Back";
+"recipeName" = "Name";
+"recipeInfo" = "Info";
+"recipeIngredients" = "Ingredients";
+"ingredient" = "Ingredient";
+"recideAddIngredient" = "Add";
+"recideDescription" = "Description";
+"recideDuration" = "Duration";
+"durationInMinutes" = "%@ min.";
